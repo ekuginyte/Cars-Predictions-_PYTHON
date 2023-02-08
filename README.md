@@ -1,2 +1,2 @@
-# Prediction of car types in Python
+# Prediction of car price in Python
 ## Knowledge discovery and datamining module
